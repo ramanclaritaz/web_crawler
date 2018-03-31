@@ -1,0 +1,34 @@
+{
+  "article": {
+    "article_info": "section.section__article > div.paper__large > div.content > div.article > article",
+    "avatar": "section.section__article > div.paper__large > div.content > div.article > div.article__meta > div.avatar",
+    "descriptions": "section.section__article > div.paper__large > div.content > div.article > div.article__meta > div.article__desc",
+    "title": "section.section__article > div.paper__large > div.content > div.article > div.article__meta > h1.t__h1"
+  },
+  "category": {
+    "avatar": {
+      "image": "a.paper > div.collection > div.collection_meta > div.avatar > div.avatar__photo > img",
+      "info": "a.paper > div.collection > div.collection_meta > div.avatar > div.avatar__info > div",
+      "selector": "a.paper >div.collection > div.collection_meta > div.avatar"
+    },
+    "href": "div.g__space > a.paper",
+    "list": "section > div.g__space",
+    "meta": "a.paper > div.collection > div.collection_meta > p.paper__preview",
+    "photo": "a.paper > div.collection > div.collection__photo > svg",
+    "title": "a.paper > div.collection > div.collection_meta > h2.t__h3"
+  },
+  "subcategory": {
+    "avatar": {
+      "image": "div.section__bg > div.g__space > a.paper__article-preview > div.article__preview > div.avatar > div.avatar__photo > img",
+      "info": "div.section__bg > div.g__space > a.paper__article-preview > div.article__preview > div.avatar > div.avatar__info > div",
+      "selector": "div.section__bg > div.g__space > a.paper__article-preview > div.article__preview > div.avatar"
+
+    },
+    "href": "div.section__bg > div.g__space > a.paper__article-preview",
+    "selector": "div.container > div.content > section.content > div.section__bg > div.g__space > a.paper__article-preview",
+    "list": "div.g__space",
+    "meta": " div.article__preview > span.paper__preview",
+    "title": "div.article__preview > h2.t__h3 > span.c__primary"
+  },
+  "page_title": "header.header > div.header__container > div.content > h1.header__headline"
+}
